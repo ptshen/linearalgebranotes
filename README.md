@@ -1,2 +1,2 @@
 # linearalgebranotes
-notes for math un2015
+notes for linear algebra
